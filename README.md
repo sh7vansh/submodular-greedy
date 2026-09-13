@@ -1,5 +1,7 @@
 # Submodular Greedy Bounds in Lean 4
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22736769.svg)](https://doi.org/10.5281/zenodo.22736769)
+
 This library formalizes discrete greedy generator extraction algorithms on finite closure spaces in Lean 4 with Mathlib.
 
 The formalization contains no `sorry` placeholders. Every theorem depends strictly on the standard Lean 4 core axioms (`propext`, `Classical.choice`, and `Quot.sound`).
