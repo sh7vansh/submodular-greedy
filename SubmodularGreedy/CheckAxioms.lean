@@ -1,3 +1,7 @@
+/-
+Copyright (c) 2026 Shivansh Singh. All rights reserved.
+Authors: Shivansh Singh
+-/
 import SubmodularGreedy.SubmodularGreedy
 import SubmodularGreedy.MatroidExchange
 import SubmodularGreedy.AdversarialTrap

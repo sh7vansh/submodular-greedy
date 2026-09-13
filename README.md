@@ -73,3 +73,8 @@ All audit commands confirm zero external axioms beyond `propext`, `Classical.cho
 * Nemhauser, G. L., Wolsey, L. A., and Fisher, M. L. (1978). An analysis of approximations for maximizing submodular set functions. *Mathematical Programming*, 14(1), 265-294.
 * Borodin, A., Nielsen, M. N., and Rackoff, C. (2003). Lower bounds for greedy algorithms in graph coloring and set cover. *Journal of Computer and System Sciences*, 67(1), 1-36.
 * Mac Lane, S. (1936). Some interpretations of abstract linear dependence. *Annals of Mathematics*, 37(2), 360-375.
+
+## 6. License
+
+This project is licensed under the Apache License, Version 2.0.
+Copyright (c) 2026 Shivansh Singh. See [LICENSE](LICENSE) for details.
