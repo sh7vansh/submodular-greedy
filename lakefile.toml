@@ -1,5 +1,5 @@
 name = "SubmodularGreedy"
-version = "0.1.0"
+version = "1.0.0"
 description = "Greedy Submodular Bounds and Discrete Matroid Optimality"
 license = "Apache-2.0"
 keywords = ["math", "submodular", "greedy", "matroid"]
