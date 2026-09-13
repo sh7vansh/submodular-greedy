@@ -1,0 +1,19 @@
+name = "SubmodularGreedy"
+version = "0.1.0"
+description = "Greedy Submodular Bounds and Discrete Matroid Optimality"
+license = "Apache-2.0"
+keywords = ["math", "submodular", "greedy", "matroid"]
+defaultTargets = ["SubmodularGreedy"]
+lintDriver = "batteries/runLinter"
+lintDriverArgs = ["SubmodularGreedy"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.33.1"
+
+[[lean_lib]]
+name = "SubmodularGreedy"
